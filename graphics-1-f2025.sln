@@ -7,12 +7,18 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "graphics-1-f2025", "graphic
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
 		Debug|x64 = Debug|x64
+		Release|ARM = Release|ARM
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B52EACE3-DE3A-4365-905C-9F37F726B647}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B52EACE3-DE3A-4365-905C-9F37F726B647}.Debug|ARM.Build.0 = Debug|ARM
 		{B52EACE3-DE3A-4365-905C-9F37F726B647}.Debug|x64.ActiveCfg = Debug|x64
 		{B52EACE3-DE3A-4365-905C-9F37F726B647}.Debug|x64.Build.0 = Debug|x64
+		{B52EACE3-DE3A-4365-905C-9F37F726B647}.Release|ARM.ActiveCfg = Release|ARM
+		{B52EACE3-DE3A-4365-905C-9F37F726B647}.Release|ARM.Build.0 = Release|ARM
 		{B52EACE3-DE3A-4365-905C-9F37F726B647}.Release|x64.ActiveCfg = Release|x64
 		{B52EACE3-DE3A-4365-905C-9F37F726B647}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
